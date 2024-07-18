@@ -21,7 +21,7 @@ This course is designed to cover fundamental and advanced topics in Machine Lear
 
 3. **Classification Algorithms**
    - Logistic Regression
-   - k_Nearest Neighbors
+   - k-Nearest Neighbors
    - Decision Tree clissification
    - Random Forest Classification
    - Naive Bayes
@@ -53,6 +53,6 @@ This course is designed to cover fundamental and advanced topics in Machine Lear
    - Kernel PCA
   
 10. **Model Selection and Boosting**
-   - k_Fold Cross Validation
+   - k-Fold Cross Validation
    - Grid Search
-   - XG_Boost
+   - XG-Boost
