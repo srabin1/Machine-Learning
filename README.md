@@ -22,7 +22,7 @@ This course is designed to cover fundamental and advanced topics in Machine Lear
 3. **Classification Algorithms**
    - Logistic Regression
    - k-Nearest Neighbors
-   - Decision Tree clissification
+   - Decision Tree classification
    - Random Forest Classification
    - Naive Bayes
    - Support Vector Machine
